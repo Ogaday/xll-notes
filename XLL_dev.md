@@ -73,3 +73,30 @@ Maybe it would be reasonable to use the [Excell add in library](http://xll.codep
 Apparently use some GUI to create an XML description of the ribbon which is then bundled with the xll file?? [Stack Exchange](http://stackoverflow.com/questions/21270017/excel-addin-with-ribbon-menu)
 
 Interesting example of an XLL - [asynchronous UDFs](https://code.msdn.microsoft.com/office/Excel-2010-Writing-791e9222)
+https://code.msdn.microsoft.com/Excel-2010-Writing-791e9222
+
+https://blogs.office.com/2010/01/27/programmability-improvements-in-excel-2010/
+http://stackoverflow.com/questions/18026991/excelasyncutil-observe-to-create-a-running-clock-in-excel
+https://msdn.microsoft.com/en-us/library/ff796219.aspx
+http://www.remkoweijnen.nl/blog/2012/06/08/excel-2010-multi-threaded-calculation/
+http://www.maths.manchester.ac.uk/~ahazel/EXCEL_C++.pdf
+http://www.drdobbs.com/parallel/improving-futures-and-callbacks-in-c-to/240004255
+asynchronous I/O
+http://origin.www.ms.akadns.net/downloads/en/details.aspx?FamilyID=607b1d3b-3006-4693-b82e-cb47429c63e8 ?
+https://code.google.com/archive/p/c-api-tools/
+http://stackoverflow.com/questions/10884086/microsoft-excel-c-api-and-visual-studio
+https://smurfonspreadsheets.wordpress.com/2007/03/05/excel-xlls-and-the-c-api/
+https://www.interactivebrokers.com/download/ExcelApiBeginners.pdf
+Feel like I'm repeating myself here.
+blogs.msdn.com/b/andreww/archive/2007/12/09/building-an-excel-xll-in-c-c-with-vs-2008.aspx
+https://support.microsoft.com/en-us/kb/178474
+https://blogs.msdn.microsoft.com/andreww/2007/12/09/building-an-excel-xll-in-cc-with-vs-2008/
+blogs.msdn.com/b/andreww/archive/2007/12/13/invoking-native-excel-udfs-from-managed-code-pt1.aspx
+http://xll.codeplex.com/discussions/375056
+https://smurfonspreadsheets.wordpress.com/2010/02/16/raw-xlls/
+http://xll.codeplex.com/discussions/533426
+https://msdn.microsoft.com/en-us/library/ee941475%28v=office.14%29.aspx
+https://blogs.msdn.microsoft.com/jensenh/2006/12/08/using-ribbonx-with-c-and-atl/
+http://www.rondebruin.nl/win/s2/win003.htm
+http://www.codeproject.com/Articles/76252/What-are-TCHAR-WCHAR-LPSTR-LPWSTR-LPCTSTR-etc
+http://www.getcodesamples.com/src/EFD78B79/1FE3D2A9
